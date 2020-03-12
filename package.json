@@ -1,0 +1,16 @@
+{
+  "name": "chrome-zip-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vinhjaxt",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-remote-interface": "^0.26.1",
+    "fs-extra": "^7.0.0",
+    "http-server": "^0.12.1"
+  }
+}
